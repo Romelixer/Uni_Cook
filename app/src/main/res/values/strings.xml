@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Uni_Cook</string>
+    <string name="Description">Before you start the Web Design with HTML and CSS Digital Classroom
+        lessons, you should have a working knowledge of your computer and its operating system.
+        You should know how to use the directory system of your computer so that you can navigate through folders.
+        You also need to understand how to locate, save, and open fi les, and you should also know how
+        to use your mouse to access menus and commands. If you are just starting out with using a </string>
 </resources>
